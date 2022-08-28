@@ -1,0 +1,5 @@
+
+.ipynb_checkpoints/*
+dataset/.ipynb_checkpoints/*.csv
+result/.ipynb_checkpoints/*.csv
+etc/.ipynb_checkpoints/*
